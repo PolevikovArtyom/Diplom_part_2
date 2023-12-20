@@ -11,5 +11,3 @@ order_body = {
         "BLACK"
     ]
 }
-
-track_number =""
